@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Expense Tracker with Dashboard
 
 **Minor Project (5th Semester) — Data Analysis using Python**
@@ -20,3 +21,7 @@ Ek aam vyakti apna daily/monthly kharcha track nahi kar pata, jisse pata nahi ch
 6. Top spending category
 7. Full Dashboard (Pie + Bar chart together)
 
+=======
+# Machine-Learning-Demo
+Data preprocessing, model training, and ML algorithms implementation.
+>>>>>>> f0e8dad8cad8576a5158ee335490905aabdebe9a
